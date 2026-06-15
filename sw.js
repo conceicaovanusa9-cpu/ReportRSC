@@ -1,4 +1,4 @@
-const CACHE = 'reports-pwa-v2'; // ← Incremente aqui a cada deploy
+const CACHE = 'reports-pwa-v3'; // ← Incremente aqui a cada deploy
 const ASSETS = [
   './',
   './index.html',
